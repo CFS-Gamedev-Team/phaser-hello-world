@@ -1,0 +1,22 @@
+{
+  "name": "phaser.io-helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codefivestar/Phaser.io-HelloWorld.git"
+  },
+  "author": "Hidequel Puga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codefivestar/Phaser.io-HelloWorld/issues"
+  },
+  "homepage": "https://github.com/codefivestar/Phaser.io-HelloWorld#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
